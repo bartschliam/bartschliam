@@ -34,10 +34,10 @@
 
 ## Projects
 
-1) ❎ [Skat Website](http://liambartsch.pythonanywhere.com/)
+1) ❎⛔ [Skat Website](http://liambartsch.pythonanywhere.com/)
 2) ⏳ Google excel sheet project
-3) Airline Gate Predictor
-4) Tayo, Status In progress ⏳
+3) ❌ Airline Gate Predictor
+4) ❎⏳ Tayo
 
 
 ## Emoji Legend
