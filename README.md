@@ -31,6 +31,13 @@
 7) French
 8) German
 9) Spanish
+
+## Projects
+
+1) [Skat Website](http://liambartsch.pythonanywhere.com/), Status: Blocked ❌
+2) Google excel sheet project, Status: In progress ⏳
+3) Airline Gate Predictor, Status: Not started yet ⛔
+4) Tayo, Status In progress ⏳
 <!---
 bartschliam/bartschliam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
