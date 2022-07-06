@@ -34,10 +34,19 @@
 
 ## Projects
 
-1) [Skat Website](http://liambartsch.pythonanywhere.com/), Status: Blocked ❌
-2) Google excel sheet project, Status: In progress ⏳
-3) Airline Gate Predictor, Status: Not started yet ⛔
+1) ❎ [Skat Website](http://liambartsch.pythonanywhere.com/)
+2) ⏳ Google excel sheet project
+3) Airline Gate Predictor
 4) Tayo, Status In progress ⏳
+
+
+## Emoji Legend
+
+1) ✅ = Finished / Completed
+2) ❎ = Up and Running but not fully finished / completed
+3) ⏳ = In Progress
+4) ⛔ = Blocked or halted temporarely
+5) ❌ = To-Do, not yet started
 <!---
 bartschliam/bartschliam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
