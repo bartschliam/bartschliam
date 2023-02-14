@@ -1,18 +1,24 @@
-# 👋 Hi, My name is Liam Bartsch.
+# 👋 Hi, My name is Liam.
 
 ## 👀 I’m interested in:
 
 1. Solving Problems
-2. Helping people
-3. Public Good Regime
-4. Improving transactional relationships to become transformational ones.
+2. Helping People
+3. Turning transactional relationships into transformational ones.
+4. Cybersecurity
+5. Artificial Intelligence
+6. Effective Altruism
+7. Creating a happier, healthier, peaceful, loving and wealthier world.
 
 ## 🌱 I’m currently learning:
 
 1. Software Development
-2. How to contribute to help create a healthier, more resiliant, peaceful world.
+2. Cybersecurity
+3. Machine Learning
+4. Automation
+5. A.I.
 
-## 💞️ I’m looking to collaborate on any Project that would be useful yet is blocked because no one is willing to help with no expecation of reward.
+## 💞️ I’m looking to collaborate on projects that allow me to apply my skills and expertise while also learning new things and making a positive impact.
 
 ## 📫 How to reach me:
   - [Linked in](https://www.linkedin.com/in/liam-bartsch-942448214/) 
@@ -34,10 +40,10 @@
 
 ## Projects
 
-1) ❎⛔ [Skat Website](http://liambartsch.pythonanywhere.com/)
-2) ⏳ Google excel sheet project
-3) ❌ Airline Gate Predictor
-4) ❎⏳ Tayo
+1) ❎⏳⛔ [Skat Website](http://liambartsch.pythonanywhere.com/)
+2) ❎⏳⛔ Google sheet project
+3) ❎⏳⛔ Tayo
+4) ❌ Airline Gate Predictor
 
 
 ## Emoji Legend
