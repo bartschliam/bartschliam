@@ -40,11 +40,13 @@
 
 ## Projects
 
-1) ❎⏳⛔ [Skat Website](http://liambartsch.pythonanywhere.com/)
-2) ❎⏳⛔ Google sheet project
-3) ❎⏳⛔ Tayo
-4) ❌ Airline Gate Predictor
-
+1) [TuneRelease](https://tunerelease.com/) ✅ 
+2) [Domaine De La Garde](http://www.domainedelagarde.fr/) ✅ 
+3) [Pocket Tutor](https://www.pockettutor.ie/) ✅
+4) [Skat Website](http://liambartsch.pythonanywhere.com/) ⛔
+6) [Tayo](https://tayo-paris.com/) ⛔
+7) Google sheet project ⛔
+8) Airline Gate Predictor ❌
 
 ## Emoji Legend
 
