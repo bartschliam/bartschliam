@@ -4,11 +4,11 @@
 
 1. Solving Problems
 2. Helping People
-3. Turning transactional relationships into transformational ones.
+3. Replacing transactional relationships with transformational ones.
 4. Cybersecurity
-5. Artificial Intelligence
-6. Effective Altruism
-7. Creating a happier, healthier, peaceful, loving and wealthier world.
+5. Artificial Intelligence (AI)
+6. Effective Altruism (EA)
+7. Creating a happier, healthier, peaceful, loving, and wealthier world.
 
 ## 🌱 I’m currently learning:
 
@@ -16,13 +16,14 @@
 2. Cybersecurity
 3. Machine Learning
 4. Automation
-5. A.I.
+5. Artificial Intelligence
+6. How to effectively contribute to the world
 
-## 💞️ I’m looking to collaborate on projects that allow me to apply my skills and expertise while also learning new things and making a positive impact.
+## 💞️ I’m looking to collaborate on projects that allow me to apply my skills and expertise while learning new things and having a positive impact.
 
 ## 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/liam-bartsch-942448214/) 
-  - [Discord: LiamTitan#7933](https://discord.com/users/568707315650265088) 
+  - [Discord: liamtitan](https://discord.com/users/568707315650265088) 
   - [Email](bartschl@tcd.ie)
   - [StackOverflow](https://stackoverflow.com/users/18321042/liam)
 
