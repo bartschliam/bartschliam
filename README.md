@@ -24,7 +24,7 @@
 ## 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/liam-bartsch-942448214/) 
   - [Discord: liamtitan](https://discord.com/users/568707315650265088) 
-  - [Email](bartschl@tcd.ie)
+  - [Email](bartschliam@gmail.com)
   - [StackOverflow](https://stackoverflow.com/users/18321042/liam)
 
 ## Technologies/Languages
