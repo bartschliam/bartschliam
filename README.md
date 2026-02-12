@@ -22,7 +22,7 @@
 ## 💞️ I’m looking to collaborate on projects that allow me to apply my skills and expertise while learning new things and having a positive impact.
 
 ## 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/liam-bartsch-942448214/) 
+  - [LinkedIn](https://www.linkedin.com/in/liambartsch/) 
   - [Discord: liamtitan](https://discord.com/users/568707315650265088) 
   - [Email](bartschliam@gmail.com)
   - [StackOverflow](https://stackoverflow.com/users/18321042/liam)
