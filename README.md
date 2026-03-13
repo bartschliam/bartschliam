@@ -39,23 +39,29 @@
 8) German
 9) Spanish
 
-## Projects
+## Active Projects
 
 1) [TuneRelease](https://tunerelease.com/) ✅ 
-2) [Domaine De La Garde](http://www.domainedelagarde.fr/) ✅ 
-3) [Pocket Tutor](https://www.pockettutor.ie/) ✅
-4) [Skat Website](http://liambartsch.pythonanywhere.com/) ⛔
-6) [Tayo](https://tayo-paris.com/) ⛔
-7) Google sheet project ⛔
-8) Airline Gate Predictor ❌
+2) [Domaine De La Garde](http://www.domainedelagarde.fr/) ✅
+4) [Simple Solar](https://simplesolar.ie/) ✅
+5) [Tayo](https://www.tayoparis.com/) ✅
+6) [Global Alliance For Human Progress](https://global-alliance-for-human-progress.onrender.com/) ✅
+7) Google sheet project 📝
+8) Airline Gate Predictor 📝
+
+## Archived / Deprecated Projects
+
+1) [Pocket Tutor]([https://www.pockettutor.ie/](https://www.owi.ie/portfolio/pocket-tutor-education-e-learning-platform/)) ✅
+
 
 ## Emoji Legend
 
 1) ✅ = Finished / Completed
 2) ❎ = Up and Running but not fully finished / completed
-3) ⏳ = In Progress
-4) ⛔ = Blocked or halted temporarely
-5) ❌ = To-Do, not yet started
+3) 🚧 = Archived / Deprecated
+4) ⏳ = In Progress
+5) ⛔ = Blocked or halted temporarely
+6) 📝 = To-Do, not yet started
 <!---
 bartschliam/bartschliam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
