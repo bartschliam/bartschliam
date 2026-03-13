@@ -51,7 +51,7 @@
 
 ## Archived / Deprecated Projects
 
-1) [Pocket Tutor]([https://www.pockettutor.ie/](https://www.owi.ie/portfolio/pocket-tutor-education-e-learning-platform/)) ✅
+1) [Pocket Tutor]([https://www.pockettutor.ie/](https://www.owi.ie/portfolio/pocket-tutor-education-e-learning-platform/)) 🚧
 
 
 ## Emoji Legend
