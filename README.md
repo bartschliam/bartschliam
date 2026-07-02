@@ -39,15 +39,18 @@
 8) German
 9) Spanish
 
-## Active Projects
+## Finished Projects
 
 1) [TuneRelease](https://tunerelease.com/) ✅ 
-2) [Domaine De La Garde](http://www.domainedelagarde.fr/) ✅
-4) [Simple Solar](https://simplesolar.ie/) ✅
-5) [Tayo](https://www.tayoparis.com/) ✅
-6) [Global Alliance For Human Progress](https://global-alliance-for-human-progress.onrender.com/) ⏳
-7) Google sheet project 📝
-8) Airline Gate Predictor 📝
+1) [Domaine De La Garde](http://www.domainedelagarde.fr/) ✅
+1) [Simple Solar](https://simplesolar.ie/) ✅
+1) [Tayo](https://www.tayoparis.com/) ✅
+
+## Active Projects
+
+1) [Global Alliance For Human Progress](https://global-alliance-for-human-progress.onrender.com/) ⏳
+1) Google sheet project 📝
+1) Airline Gate Predictor 📝
 
 ## Archived / Deprecated Projects
 
