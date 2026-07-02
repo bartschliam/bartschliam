@@ -57,11 +57,10 @@
 ## Emoji Legend
 
 1) ✅ = Finished / Completed
-2) ❎ = Up and Running but not fully finished / completed
-3) 🚧 = Archived / Deprecated
-4) ⏳ = In Progress
-5) ⛔ = Blocked or halted temporarely
-6) 📝 = To-Do, not yet started
+1) ⏳ = In Progress
+1) 🚧 = Archived / Deprecated
+1) ⛔ = Blocked or halted temporarely
+1) 📝 = To-Do, not yet started
 <!---
 bartschliam/bartschliam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
